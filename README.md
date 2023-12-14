@@ -12,3 +12,7 @@ The file 'youtube_comments.py' contains the function to download the relevant co
 ## File: exemple.py
 The 'example.py' file is an example of how to use the code. I downloaded the comments from the video of the song 'pa tipos como tu' by Shakira and Bizarrap. I chose this song because it has a lot of comments, which demonstrates the power of the function.
 
+This file shows how to transform lists into a data frame and then save it as a .csv file.
+
+Once you have the database in the form of a .csv file, you can use it to conduct your analyses
+
