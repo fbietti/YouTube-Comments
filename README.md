@@ -39,6 +39,14 @@ The file 'cleanfunction.R' contains a function to clean character string vectors
 ## File: topicanalysis.R
 This file contains commands to conduct an analysis to highlight the main themes that appear in the corpus. To do this, I am using several commands from the quanteda package.
 
+# File: topicanalysis_wordassociation.R
+
+This file presents a few commands to find word associations using functions from the tm package.
+
+Second sentiment analysis plot:
+![alt text](https://github.com/fbietti/YouTube-Comments/blob/main/plots/plot3.png)
+
+
 
 
 
