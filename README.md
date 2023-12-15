@@ -27,6 +27,9 @@ This file contains lines to perform sentiment analysis. First, we obtain the sen
 ![alt text](https://github.com/fbietti/YouTube-Comments/blob/main/plot1.png)
 
 
+![alt text](https://github.com/fbietti/YouTube-Comments/blob/main/plot2.png)
+
+
 
 
 
