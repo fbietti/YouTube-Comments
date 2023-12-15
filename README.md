@@ -4,6 +4,7 @@
 This code will allow you to download comments from YouTube videos for your textual analyses, lexicometry, and NLP (Natural Language Processing). It's a very simple code. 
 
 The function has been coden in python. 
+Afterwards, I provided an example of analysis using R.
 
 
 ## File: youtube_comments.py
