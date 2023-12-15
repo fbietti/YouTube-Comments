@@ -31,7 +31,9 @@ First sentiment analysis plot:
 Second sentiment analysis plot:
 ![alt text](https://github.com/fbietti/YouTube-Comments/blob/main/plots/plot2.png)
 
+## File: celanfonction.R
 
+The file 'cleanfunction.R' contains a function to clean character string vectors. It will be useful for cleaning comments.
 
 
 
