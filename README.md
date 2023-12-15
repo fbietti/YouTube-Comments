@@ -36,6 +36,9 @@ Second sentiment analysis plot:
 The file 'cleanfunction.R' contains a function to clean character string vectors. It will be useful for cleaning comments.
 
 
+## File: topicanalysis.R
+This file contains commands to conduct an analysis to highlight the main themes that appear in the corpus. To do this, I am using several commands from the quanteda package.
+
 
 
 
