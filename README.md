@@ -16,3 +16,10 @@ This file shows how to transform lists into a data frame and then save it as a .
 
 Once you have the database in the form of a .csv file, you can use it to conduct your analyses
 
+
+## File: cleaning.R
+The file 'cleaning.R' contains some rather simple manipulations in R to clean the database and standardize the date format. You will also find two lines to remove empty lines and emojis. In my case, emojis were not very important, so it made sense to delete them.
+
+## File: sentiment_analysis.R
+
+
