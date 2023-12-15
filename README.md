@@ -25,6 +25,14 @@ The file 'cleaning.R' contains some rather simple manipulations in R to clean th
 This file contains lines to perform sentiment analysis. First, we obtain the sentences. Then, we calculate the sentiment associated with the sentences using the 'sentiment' function from the 'sentimentr' package. I chose this function because it has a lexicon in Spanish (as most of the comments are in Spanish). After some manipulations, I have included a graph to visualize the result.
 
 
+First sentiment analysis plot:
+![alt text](https://github.com/fbietti/YouTube-Comments/blob/main/plots/plot1.png)
+
+Second sentiment analysis plot:
+![alt text](https://github.com/fbietti/YouTube-Comments/blob/main/plots/plot2.png)
+
+
+
 
 
 
